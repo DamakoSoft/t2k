@@ -13,8 +13,7 @@ DamakoSoft is made up of members with ties to Akita, hence we give the name.
 
 ![damako](https://user-images.githubusercontent.com/22868285/148642280-065e35a2-e40b-48e1-883f-1f5525eb5892.jpeg)
 
-<div style="text-align: center;">A example of Damako
-</div>
+A example of Damako
 
 ## Tatsuko Driver - What is Tatsuko?
 The name "Tatsuko" in TatsuKo Driver comes from the legend princess Tatsuko,
