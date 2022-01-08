@@ -6,7 +6,11 @@ t2k is a software library available in M5Stack Core2
 that supports sprites, font, screen display, music playback, and gamepad input, etc.
 The software design is focused to be used for game development.
 
-![topMenu](https://user-images.githubusercontent.com/95997592/148644374-4cab6978-20dc-4f44-ab42-2b1dd45edbe9.jpg)
+<p>
+<img src="https://user-images.githubusercontent.com/95997592/148644374-4cab6978-20dc-4f44-ab42-2b1dd45edbe9.jpg" width="300px" align="top">
+<img src="https://user-images.githubusercontent.com/95997592/148644647-229b7453-e50a-411c-b91b-981847e617d7.jpg" width="300px" align="top">
+<img src="https://user-images.githubusercontent.com/95997592/148644876-2118f303-3c47-4535-9aa9-0f95a8b5d479.jpg" width="300px" align="top">
+</p>
 
 ## DamakoSoft - What is Damako?
 The Damako is a kind of rice chunk used 
