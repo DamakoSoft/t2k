@@ -6,7 +6,7 @@ t2k is a software library available in M5Stack Core2
 that supports sprites, font, screen display, music playback, and gamepad input, etc.
 The software design is focused to be used for game development.
 
-<p><cener>
+<p><center>
 <img src="https://user-images.githubusercontent.com/95997592/148644374-4cab6978-20dc-4f44-ab42-2b1dd45edbe9.jpg" width="30%" align="top">
 <img src="https://user-images.githubusercontent.com/95997592/148644647-229b7453-e50a-411c-b91b-981847e617d7.jpg" width="30%" align="top">
 <img src="https://user-images.githubusercontent.com/95997592/148644876-2118f303-3c47-4535-9aa9-0f95a8b5d479.jpg" width="30%" align="top">
@@ -19,7 +19,7 @@ DamakoSoft is made up of members with ties to Akita, hence we give the name.
 
 ![damako](https://user-images.githubusercontent.com/22868285/148642280-065e35a2-e40b-48e1-883f-1f5525eb5892.jpeg)
 
-A example of Damako
+<center>A example of Damako</center>
 
 ## Tatsuko Driver - What is Tatsuko?
 The name "Tatsuko" in TatsuKo Driver comes from the legend princess Tatsuko,
