@@ -1,0 +1,52 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# PlatformIO
+*.pio
+
+# vim
+*.swp
+
+# macOS
+.DS_Store
+
+# pyenv
+.python-version
+
+# Libre Office
+.~lock*.odg#
+
+# etc
+*.tmp
+
+.vscode/*
