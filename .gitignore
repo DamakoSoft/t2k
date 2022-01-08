@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# PlatformIO
+*.pio
+
+# vim
+*.swp
+
+# macOS
+.DS_Store
+
+# pyenv
+.python-version
+
+# Libre Office
+.~lock*.odg#
+
+# etc
+*.tmp
+
