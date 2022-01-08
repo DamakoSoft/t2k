@@ -6,6 +6,8 @@ t2k is a software library available in M5Stack Core2
 that supports sprites, font, screen display, music playback, and gamepad input, etc.
 The software design is focused to be used for game development.
 
+![topMenu](https://user-images.githubusercontent.com/95997592/148644374-4cab6978-20dc-4f44-ab42-2b1dd45edbe9.jpg)
+
 ## DamakoSoft - What is Damako?
 The Damako is a kind of rice chunk used 
 in the local cuisine of Akita Prefecture in Japan.
